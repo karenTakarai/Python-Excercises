@@ -37,7 +37,7 @@ e = "a string with a right side."
 print(w + e) #(5) (6)
 
 #----------------------------------------------------------------------------------------->
-#Break code -- fixed 
+#Broken code -- fixed 
 
 types_of_people = 10
 x = f"there are {types_of_people} {y} type of people."
